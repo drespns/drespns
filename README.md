@@ -14,7 +14,7 @@
 -->
 
 <div align='center'>
-<img src='https://github.com/user-attachments/assets/5ec17200-7e9a-452b-9805-1cbd4d9d72de' />
+<img src='https://github.com/user-attachments/assets/5ec17200-7e9a-452b-9805-1cbd4d9d72de' width='auto' height='250px' />
 <hr/>
 <img src='https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=black&logoColor=3776AB' />
 <img src='https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&labelColor=black' />
@@ -30,3 +30,5 @@
 <img src='https://img.shields.io/badge/-three.js-000000?style=for-the-badge&logo=three.js' />
 <hr/>
 </div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=drespns&show_icons=true&theme=transparent)
